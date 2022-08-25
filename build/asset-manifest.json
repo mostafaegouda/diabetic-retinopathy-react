@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/diabetic-retinopathy/static/css/main.706e9f18.css",
+    "main.js": "/diabetic-retinopathy/static/js/main.917f35b9.js",
+    "static/media/uni_logo.png": "/diabetic-retinopathy/static/media/uni_logo.a97d4300b75a91655170.png",
+    "static/media/retina-photo.png": "/diabetic-retinopathy/static/media/retina-photo.26a72e2e64a1ddae7aee.png",
+    "static/media/placeholder.png": "/diabetic-retinopathy/static/media/placeholder.985a5f23b26f94ed39db.png",
+    "static/media/retina.png": "/diabetic-retinopathy/static/media/retina.1f6196facb8b3195b8c7.png",
+    "static/media/cpu.svg": "/diabetic-retinopathy/static/media/cpu.b471896fd3136c31ce4ac27028fbf8cf.svg",
+    "static/media/gallery-add.svg": "/diabetic-retinopathy/static/media/gallery-add.aa17cbc3a73dc2dc7c895b1a96988a0d.svg",
+    "static/media/gallery-add-bulk.svg": "/diabetic-retinopathy/static/media/gallery-add-bulk.fd1e05bcfdd636cc9b2a707fa30497aa.svg",
+    "static/media/task-square.svg": "/diabetic-retinopathy/static/media/task-square.37b01a28dad8ef9a9ccf86b6b8177e81.svg",
+    "static/media/book.svg": "/diabetic-retinopathy/static/media/book.913b98a4fe68a703f9868fd4de357998.svg",
+    "static/media/arrow-up-1.svg": "/diabetic-retinopathy/static/media/arrow-up-1.9875d093d19778c5aaab6e7402adbd5f.svg",
+    "static/media/close-circle.svg": "/diabetic-retinopathy/static/media/close-circle.8f038da7d084025ff07d611c18f51ce2.svg",
+    "index.html": "/diabetic-retinopathy/index.html",
+    "static/media/home-2.svg": "/diabetic-retinopathy/static/media/home-2.b0ac79b118540a69d98829c815372432.svg",
+    "static/media/arrow-circle-left.svg": "/diabetic-retinopathy/static/media/arrow-circle-left.24675364dde0f43b2140c1bd9fe8d34d.svg",
+    "static/media/arrow-circle-right.svg": "/diabetic-retinopathy/static/media/arrow-circle-right.86c2a25be7f04ed6200bdf4ece75849f.svg",
+    "static/media/tick-circle.svg": "/diabetic-retinopathy/static/media/tick-circle.ebc21123332a78c96ee2c6d68781607d.svg",
+    "main.706e9f18.css.map": "/diabetic-retinopathy/static/css/main.706e9f18.css.map",
+    "main.917f35b9.js.map": "/diabetic-retinopathy/static/js/main.917f35b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706e9f18.css",
+    "static/js/main.917f35b9.js"
+  ]
+}
